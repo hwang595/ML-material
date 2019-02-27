@@ -16,10 +16,12 @@ Useful machine learning materials
 1. [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Shalev-Shwartz, Ben-David.
 ### Optimization:
 1. [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/), S. Boyd and L. Vandenberghe.
+2. [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), S. Bubeck.
 ### Deep Learning:
 1. [Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow and Y. Bengio and A. Courville
 ## Online Courses:
 1. [CS229 - Machine Learning at Stanford](https://see.stanford.edu/course/cs229), Andrew Ng.
+2. [CNN Tutorial from CS231n at Stanford](http://cs231n.github.io/convolutional-networks/).
 
 ## Tutorials of Deep Learning Frameworks:
 1. [TensorFlow](https://www.tensorflow.org/tutorials), [Keras](https://keras.io/).
