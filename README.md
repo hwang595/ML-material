@@ -19,6 +19,8 @@ Useful machine learning materials
 2. [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), S. Bubeck.
 ### Deep Learning:
 1. [Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow and Y. Bengio and A. Courville
+### Information Theory:
+1. [Elements of Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf), T. M. Cover, J. A. Thomas
 ## Online Courses:
 1. [CS229 - Machine Learning at Stanford](https://see.stanford.edu/course/cs229), Andrew Ng.
 2. [CNN Tutorial from CS231n at Stanford](http://cs231n.github.io/convolutional-networks/).
