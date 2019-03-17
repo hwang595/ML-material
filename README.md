@@ -10,9 +10,9 @@ Useful machine learning materials
 1. [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf), D. Cherney, et al.
 ### Statistics:
 1. [All of Statistics: A Concise Course in Statistical Inference](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), L. Wasserman.
+2. [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf), R. Vershynin.
 ### Statistical Machine Learning:
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), T. Hastie, et al.
-2. [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf), R. Vershynin.
 ### Learning Theory:
 1. [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Shalev-Shwartz, Ben-David.
 ### Optimization:
