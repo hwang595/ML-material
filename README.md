@@ -18,6 +18,7 @@ Useful machine learning materials
 ### Optimization:
 1. [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/), S. Boyd and L. Vandenberghe.
 2. [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), S. Bubeck.
+3. [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf), L, Bottou, et al.
 ### Deep Learning:
 1. [Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow and Y. Bengio and A. Courville
 ### Information Theory:
